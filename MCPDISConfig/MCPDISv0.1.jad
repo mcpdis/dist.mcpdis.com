@@ -1,0 +1,40 @@
+FormulaArchiveUrl: http://localhost:3000/formulas/archive
+HashCode: 52729b1d71f7c447258ff271830ad30b986aca3c
+MIDlet-1: Absolute Neutrophil Count, ,  Formulas.AbsoluteNeutrophilCount
+MIDlet-10: Heart Rate EKG, ,  Formulas.HeartRateEKG
+MIDlet-11: Hello Midlet, , Formulas.HelloMidlet
+MIDlet-12: HendersonHasselbalch, ,  Formulas.HendersonHasselbalch
+MIDlet-13: Hepatitis Discriminant Function, ,  Formulas.HepatitisDiscriminantFunction
+MIDlet-14: IV Drip Rate, ,  Formulas.IVDripRate
+MIDlet-15: Ideal Body Weight, ,  Formulas.IdealBodyWeight
+MIDlet-16: Interval Calculator, ,  Formulas.IntervalCalculator
+MIDlet-17: LDL Cholesterol, ,  Formulas.LDLCholesterol
+MIDlet-18: Mean Arterial Pressure, ,  Formulas.MeanArterialPressure
+MIDlet-19: O2 Transport Parameters, ,  Formulas.O2TransportParameters
+MIDlet-2: Age Calculator, ,  Formulas.AgeCalculator
+MIDlet-20: O2TankRemainingTime, ,  Formulas.O2TankRemainingTime
+MIDlet-21: Osmotic Gap (Stool), ,  Formulas.OsmoticGapStool
+MIDlet-22: Oxygen Index, ,  Formulas.OxygenIndex
+MIDlet-23: PaO2 / FiO2, ,  Formulas.PaO2FiO2
+MIDlet-24: Plasma Volume, ,  Formulas.PlasmaVolume
+MIDlet-25: Post-Test Probability, ,  Formulas.PostTestProbability
+MIDlet-26: Pressue Gradient (Bernoulli), ,  Formulas.PressueGradientBernoulli
+MIDlet-27: Reticulocyte Index, ,  Formulas.ReticulocyteIndex
+MIDlet-28: Transtabular K Gradient, ,  Formulas.TranstabularKGradient
+MIDlet-29: WintersFormula, ,  Formulas.WintersFormula
+MIDlet-3: Basal Energy Expenditure, ,  Formulas.BasalEnergyExpenditure
+MIDlet-4: Body Mass Index, ,  Formulas.BodyMassIndex
+MIDlet-5: Cardiac Output Echo, ,  Formulas.CardiacOutputEcho
+MIDlet-6: Corrected Calcium Alb, ,  Formulas.CorrectedCalciumAlb
+MIDlet-7: Corrected Phenytoin, ,  Formulas.CorrectedPhenytoin
+MIDlet-8: Fractional Excretion of Na, ,  Formulas.FractionalExcretionofNa
+MIDlet-9: Gorlin Formula, ,  Formulas.GorlinFormula
+MIDlet-Jar-Size: 146888
+MIDlet-Jar-URL: MCPDISv0.1.jar
+MIDlet-Name: MCPDISv0.1
+MIDlet-Vendor: Vendor
+MIDlet-Version: 0.1
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
+PatientArchiveUrl: http://localhost:3000/patients/archive
+UserEmail: admin
